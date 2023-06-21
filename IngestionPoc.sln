@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inverters.Ingestion.Huawei.Jobs.Live", "Inverters.Ingestion.Huawei.Jobs.Live\Inverters.Ingestion.Huawei.Jobs.Live.csproj", "{5E8F5392-4D37-4C41-8D94-098138F9F04B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vendors.Huawei.Client", "Vendors.Huawei.Client\Vendors.Huawei.Client.csproj", "{B3C506AB-80CE-40C0-8296-52E9A502238B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IngestionPOC_Lambda", "IngestionPOC.Lambda\src\IngestionPOC_Lambda\IngestionPOC_Lambda.csproj", "{AB7A1456-41AF-40F3-AFA5-A29547DCBA0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E8F5392-4D37-4C41-8D94-098138F9F04B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E8F5392-4D37-4C41-8D94-098138F9F04B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E8F5392-4D37-4C41-8D94-098138F9F04B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E8F5392-4D37-4C41-8D94-098138F9F04B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3C506AB-80CE-40C0-8296-52E9A502238B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3C506AB-80CE-40C0-8296-52E9A502238B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3C506AB-80CE-40C0-8296-52E9A502238B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3C506AB-80CE-40C0-8296-52E9A502238B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB7A1456-41AF-40F3-AFA5-A29547DCBA0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB7A1456-41AF-40F3-AFA5-A29547DCBA0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB7A1456-41AF-40F3-AFA5-A29547DCBA0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB7A1456-41AF-40F3-AFA5-A29547DCBA0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
